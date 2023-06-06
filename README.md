@@ -1,2 +1,2 @@
-My first readme
-Editing it is kind of good
+My first read me
+I'm trying my best to be better at coding
